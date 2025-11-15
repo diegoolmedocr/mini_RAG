@@ -1,0 +1,3 @@
+Procesamiento de Lenguaje Natural
+El PLN es un campo de la inteligencia artificial que se centra en la interacción entre las computadoras y el lenguaje humano.
+Es fundamental para aplicaciones como traducción automática, análisis de sentimiento y sistemas de pregunta-respuesta.

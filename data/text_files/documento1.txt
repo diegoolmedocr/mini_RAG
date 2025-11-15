@@ -1,0 +1,3 @@
+Sistema RAG (Retrieval-Augmented Generation)
+El sistema RAG es una arquitectura que combina la recuperación de información con la generación de texto.
+Este enfoque permite mejorar la precisión y confiabilidad de las respuestas del modelo.
